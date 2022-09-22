@@ -1,11 +1,10 @@
 ---
-uuid: cba15320-2bd8-1ba2-4edd-d20f497df431
 title: '方法调用的编译和运行: dispatch'
 tags:
   - 编程
-originContent: ''
 categories: []
 toc: false
+uuid: cba15320-2bd8-1ba2-4edd-d20f497df431
 ---
 
 ## 1. 背景
@@ -190,8 +189,3 @@ late binding的实现
 
 说说OC运行时
 苹果官方对于OC dynamic binding文档中指出,dynamic binding就是在运行期来决定方法调用的实现.dymanic binding也叫做late binding.在OC中所有的方法都是在运行期动态判断的.真正执行的方法是通过方法名和接收对象一起来确定的.
-
-作者：sea_biscute
-链接：https://www.jianshu.com/p/e0659093eaac
-来源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。

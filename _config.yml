@@ -102,6 +102,6 @@ theme: miho
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
     type: git
-    # repository: git@gitee.com:xiao_feng_yang993/xiao_feng_yang993.git       #发布到Coding（SSH方式）
+    # repository: git@gitee.com:xiao_feng_yang993/xiao_feng_yang993.git       #发布到Gitee（SSH方式）
     repository: git@github.com:yang-xiaofeng1101/yang-xiaofeng1101.github.io.git
     branch: master
